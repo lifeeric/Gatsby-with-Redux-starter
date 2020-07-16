@@ -1,0 +1,27 @@
+body 
+    margin: 0;
+    padding: 0;
+
+.colorTheme 
+    height: 100vh
+    transition: .3s ease-in-out
+
+.darkTheme 
+    @extend .colorTheme
+    background-color: #1A202C
+    color: #fff
+    a
+        color: yellow
+
+.lightTheme 
+    @extend .colorTheme
+    background-color: #fff
+    color: #000
+    
+.container
+    text-align: center;
+    font-family: ubuntu;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
