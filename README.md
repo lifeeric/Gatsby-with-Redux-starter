@@ -12,7 +12,7 @@
   Gatsby Minimal Redux starter
 </h1>
 
-![image](new.gif)
+![image](gif.gif)
 
 Kick off your project with this minimal Redux boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React. It also includes a minimal Redux setup. The goal of this starter is to be the default starter with redux included. Nothing more, nothing less.
 
